@@ -6,7 +6,7 @@ import (
 	"go/scanner"
 	"os"
 
-	"github.com/daixiang0/gci/pkg/gci"
+	"github.com/weavedev/gci/pkg/gci"
 )
 
 var (
